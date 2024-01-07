@@ -1,0 +1,115 @@
+[
+  {
+    "type": "Math",
+    "coursesList": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/DGkC6vG/math.jpg",
+        "title": "Algebra Basics",
+        "details": "This course covers foundational algebraic concepts including equations, expressions, and basic operations. Suitable for beginners.",
+        "price": 49.99,
+        "date": "2024-02-15"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/Cmgr9sN/math-1.jpg",
+        "title": "Geometry Fundamentals",
+        "details": "Explore the fundamental principles of geometry, including shapes, angles, and spatial reasoning. Recommended for high school students or beginners.",
+        "price": 59.99,
+        "date": "2024-03-10"
+      }
+    ]
+  },
+  {
+    "type": "Science",
+    "coursesList": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/pQdnNjR/physic.jpg",
+        "title": "Physics 101",
+        "details": "Introduction to the basic concepts of physics including mechanics, thermodynamics, and electromagnetism. Suitable for beginners with an interest in physics.",
+        "price": 54.99,
+        "date": "2024-02-20"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/j3MtsL9/biology.jpg",
+        "title": "Biology Basics",
+        "details": "Explore the fundamentals of biology covering cells, genetics, and ecosystems. Ideal for beginners or students with a curiosity about life sciences.",
+        "price": 49.99,
+        "date": "2024-03-05"
+      }
+    ]
+  },
+  {
+    "type": "Language",
+    "coursesList": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/SdnxTb4/english-books-resting-table-working-space.jpg",
+        "title": "English Grammar Mastery",
+        "details": "A comprehensive guide to English grammar rules, suitable for non-native speakers and those aiming to improve their grammar skills.",
+        "price": 39.99,
+        "date": "2024-02-25"
+      }
+    ]
+  },
+  {
+    "type": "Computer Science",
+    "coursesList": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/x2jWFTf/php-coding-computer-css-data-digital-function-concept.jpg",
+        "title": "Introduction to Python Programming",
+        "details": "A beginner-friendly course to learn Python programming language from scratch, suitable for aspiring programmers and data enthusiasts.",
+        "price": 49.99,
+        "date": "2024-02-18"
+      },
+      {
+        "id": 2,
+        "image": "https://img.freepik.com/free-photo/revenue-operations-concept_23-2150902428.jpg?w=826&t=st=1704653916~exp=1704654516~hmac=4015380c19506fbb37380d35df9f443bd449bcc6c3c59c41a3112af75ab2c0c9",
+        "title": "Data Science Essentials",
+        "details": "Key concepts and tools for data analysis and visualization using Python. Suitable for beginners in data science.",
+        "price": 69.99,
+        "date": "2024-03-08"
+      }
+    ]
+  },
+  {
+    "type": "Web Development",
+    "coursesList": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/cFK3ZzJ/person-front-computer-working-html.jpg",
+        "title": "HTML & CSS Foundations",
+        "details": "Learn the basics of HTML and CSS, the building blocks of web design and development. Suitable for beginners.",
+        "price": 59.99,
+        "date": "2024-02-20"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/cFK3ZzJ/person-front-computer-working-html.jpg",
+        "title": "JavaScript Basics",
+        "details": "Introduction to the JavaScript programming language covering basic syntax, functions, and DOM manipulation.",
+        "price": 69.99,
+        "date": "2024-03-05"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/d5zyHZH/lautaro-andreani-xk-Baqlcqeb4-unsplash.jpg",
+        "title": "React Advance",
+        "details": "Introduction to the JavaScript programming language covering basic syntax, functions, and DOM manipulation.",
+        "price": 69.99,
+        "date": "2024-03-05"
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/d5zyHZH/lautaro-andreani-xk-Baqlcqeb4-unsplash.jpg",
+        "title": "Mongodb Basic",
+        "details": "Introduction to the JavaScript programming language covering basic syntax, functions, and DOM manipulation.",
+        "price": 69.99,
+        "date": "2024-03-05"
+      }
+    ]
+  }
+]
